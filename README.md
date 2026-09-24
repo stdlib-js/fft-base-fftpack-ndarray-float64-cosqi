@@ -202,11 +202,6 @@ For more information on the project, filing bug reports and feature requests, an
 
 ---
 
-## License
-
-See [LICENSE][stdlib-license].
-
-
 ## Copyright
 
 Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
@@ -252,8 +247,6 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [esm-url]: https://github.com/stdlib-js/fft-base-fftpack-ndarray-float64-cosqi/tree/esm
 [esm-readme]: https://github.com/stdlib-js/fft-base-fftpack-ndarray-float64-cosqi/blob/esm/README.md
 [branches-url]: https://github.com/stdlib-js/fft-base-fftpack-ndarray-float64-cosqi/blob/main/branches.md
-
-[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/fft-base-fftpack-ndarray-float64-cosqi/main/LICENSE
 
 </section>
 
